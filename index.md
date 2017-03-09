@@ -5,7 +5,7 @@ layout: post
 
 ## 来源
 
-这个博客使用yansu的代码，在此表示感谢。
+这个博客使用[yansu](yansu.org)的代码，在此表示感谢。
 
 ## 博客平台
 
