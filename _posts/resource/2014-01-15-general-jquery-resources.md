@@ -26,6 +26,7 @@ description:
 
 ### 禁用a的链接
 
+    你好啊
     href="return false;"或href="javascript;"
     $().live('click',function(e){
       e.preventDefault();
