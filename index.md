@@ -1,5 +1,5 @@
 ---
-title: This is title
+title: Welcome | AT Score
 layout: post
 ---
 
