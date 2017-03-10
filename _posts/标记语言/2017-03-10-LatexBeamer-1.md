@@ -1,9 +1,9 @@
 ---
 layout: post
-title: markdown学习(1)
+title: Latex和Beamer介绍
 category: markdown
-tags: markdown
-description: markdown
+tags: latex, beamer
+description: latex, beamer
 ---
 
 ## 介绍
