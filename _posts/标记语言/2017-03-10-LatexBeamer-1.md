@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latex和Beamer介绍
-category: markdown
+category: 标记语言
 tags: latex, beamer
 description: latex, beamer
 ---
@@ -13,4 +13,4 @@ Latex其实是Tex的一种，有非常多的Tex，但目前支持中文（utf8)�
 
 有一个很好的tex在线编辑器[Share LaTex](https://cn.sharelatex.com)，它支持中文，很方便
 
-这里有一个很简单的[入门教程](http://liam0205.me/2014/09/08/latex-introduction/)，我常见得写的很好
+这里有一个很简单的[入门教程](http://liam0205.me/2014/09/08/latex-introduction/)，写的很通俗易懂
