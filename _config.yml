@@ -1,37 +1,18 @@
 # Site settings
 title: AT Score
-email: 
-description: > # this means to ignore newlines until "baseurl:"
-AT Score
+email: atscore@126.com
+description: > AT Score # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: 
+author: atscore
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
 filter: 'category'
 recent_num: 20
 
-# Social account
-twitter:
-weibo:
-github:
-instagram:
-linkedin:
 
-# avatar and Favicon
-avatar: attackover@126.com
-favicon:  
-
-# disqus config
-disqus:
-  shortname: suyan-zh
-
-# google analytics config
-ga:
-  id:
-  url: 
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
